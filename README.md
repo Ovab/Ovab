@@ -1,4 +1,20 @@
 ### Hi there 👋
-My name is Bavo Knol, I enjoy making websites using mostly Nuxt.js and Laravel nowadays.
-I graduated from ROC Flevoland in 2022 as a software developer student, in 2022 I I'll have a gap year where I'll learn some new skils and work at Jasper's media
-I enjoy watching anime in my free time aswell as the occasional game of Valorant with the bois
+My name is Bavo Knol, I enjoy making websites using mostly Nuxt.js, Node and Laravel nowadays.
+
+## **My career**
+
+**Education**
+
+ - ROC Flevoland MBO 4: Software developer
+
+**Work**
+
+-2021: Jaspers media full stack developer
+
+ - I started here as an intern and was offered a job after that to keep working there part time.
+
+I took a little gap year in 2022 to learn some new skills and work for a year while I wait to be able to join my HBO
+
+## **Hobbies**
+
+I enjoy watching anime in my free time, read some Manga, play some Valorant with my friends and ofcourse trying to realize one of the bajillion projects I start.
