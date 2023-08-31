@@ -7,7 +7,9 @@ My name is Bavo Knol, I enjoy making websites using mostly Nuxt.js, Node and Lar
 
  - ROC Flevoland MBO 4: Software developer
 
-	- I finished this in October of 2021, a bit ahead of schedule so I took a gap year where I focused on improving my skills 		while working 
+	- I finished this in October of 2021, a bit ahead of schedule so I took a gap year where I focused on improving my skills while working
+- Hoge School Utrecht: HBO-ICT
+  - I'm going for my bachlor's here, I'm doing the open-ict route
 
  
 
