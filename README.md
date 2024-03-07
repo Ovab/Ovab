@@ -8,8 +8,9 @@ My name is Bavo Knol, I enjoy making websites using mostly Nuxt.js, Node and Lar
  - ROC Flevoland MBO 4: Software developer
 
 	- I finished this in October of 2021, a bit ahead of schedule so I took a gap year where I focused on improving my skills while working
+
 - Hoge School Utrecht: HBO-ICT
-  - I'm going for my bachlor's here, I'm doing the open-ict route
+	- I'm doing my batchlors here, I'm currently not specialized in anything but I've mostly been doing backend dev and a little bit of server stuff
 
  
 
@@ -17,7 +18,7 @@ My name is Bavo Knol, I enjoy making websites using mostly Nuxt.js, Node and Lar
 
 - 2021: Jaspers media full stack developer
 
-	 - I started here as an intern and was offered a job after that to keep working there part time.
+	- I started here as an intern and was offered a job after that to keep working there part time.
 
 I took a little gap year in 2022 to learn some new skills and work for a year while I wait to be able to join my HBO
 
